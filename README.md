@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Sameerkash/Sameerkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-A 3rd year CSE Graduate currently expolring the amazing tools to build fullstack apps. Flutter Devloper Intern. Hoping to Contribute to amazing frameworks like fluter soon.
+I'm 3rd year CSE Graduate currently expolring the amazing tools to build fullstack apps. Flutter Devloper Intern. Hoping to Contribute to amazing frameworks like fluter soon.
 Love Open Soruce, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on my mind and hope to implment soon. 
 
 ### Tech I'm familiar with 
