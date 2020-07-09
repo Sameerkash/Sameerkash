@@ -10,9 +10,9 @@ Flutter 💙 Node ⚡ MongoDB
 - 🔭 I’m currently working on a Grpahql Server based on nexus-prisma
 - 🌱 I’m currently learning Deno, Nest.js and other ways to build servers 
 - 👯 I’m looking to collaborate on amazing Flutter or Node projects. 
-- 🤔 I’m looking for help with [Focus ⚡] (https://github.com/Sameerkash/Focus) A minimalist android launcher 
+- 🤔 I’m looking for help with [Focus ⚡] [https://github.com/Sameerkash/Focus] A minimalist android launcher 
 - 💬 Ask me about anything, I'm up for a chat 
-- 📫 How to reach me: [@sameeerkashyap] (https://twitter.com/Sameeerkashyap) I'm probably addicted to twitter.
+- 📫 How to reach me: [@sameeerkashyap] [https://twitter.com/Sameeerkashyap] I'm probably addicted to twitter.
 - 😄 Pronouns: he/him
 
 
