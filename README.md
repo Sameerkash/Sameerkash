@@ -8,8 +8,8 @@ Flutter💙 | Node.js ✨ | GraphQL ☮ | Nest.js 🐱 | MongoDB 🌱 | Postgres
 
 
 - 🔭 I’m currently working on a Graphql Server based on nexus-prisma
-- 🌱 I’m currently learning Deno, Nest.js and other ways to build servers 
-- 👯 I’m looking to collaborate on amazing Flutter or Node projects. 
+- 🌱 I’m currently learning [Deno](https://deno.land/), [Nest.js](https://nestjs.com/) and other ways to build servers 
+- 👯 I’m looking to collaborate on amazing [Flutter](https://flutter.dev/) or [Node](https://nodejs.org/en/) projects. 
 - 🤔 I’m looking for help with [Focus ⚡](https://github.com/Sameerkash/Focus) A minimalist android launcher 
 - 💬 Ask me about anything, I'm up for a chat 
 - 📫 How to reach me: [@sameeerkashyap](https://twitter.com/Sameeerkashyap) I'm probably addicted to twitter.
