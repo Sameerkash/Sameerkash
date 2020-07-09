@@ -4,7 +4,7 @@ I'm 3rd year CSE Graduate currently exploring the amazing tools to build fullsta
 Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on my mind and hope to implement soon. 
 
 ### Tech I'm familiar with 
-Flutter💙 | Node.js ✨ | GraphQL ☮ | Nest.js 🐱 | MongoDB 🌱 | Postgres 🐘 | Deno 
+Flutter💙 | Node.js ✨ | GraphQL ☮ | Nest.js 🐱 | MongoDB 🌱 | Postgres 🐘 | Deno 🦕.
 
 
 - 🔭 I’m currently working on a Graphql Server based on nexus-prisma
