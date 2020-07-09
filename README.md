@@ -7,7 +7,7 @@ Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on
 Flutter💙 | Node.js ✨ | GraphQL ☮ | Nest.js 🐱 | MongoDB 🌱 | Postgres 🐘 | Deno 🦕.
 
 
-- 🔭 I’m currently working on a Graphql Server based on nexus-prisma
+- 🔭 I’m currently working on a [Graphql](https://graphql.org/) Server based on [nexus-prisma](https://nexus.js.org/)
 - 🌱 I’m currently learning [Deno](https://deno.land/), [Nest.js](https://nestjs.com/) and other ways to build servers 
 - 👯 I’m looking to collaborate on amazing [Flutter](https://flutter.dev/) or [Node](https://nodejs.org/en/) projects. 
 - 🤔 I’m looking for help with [Focus ⚡](https://github.com/Sameerkash/Focus) A minimalist android launcher 
