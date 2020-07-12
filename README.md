@@ -5,7 +5,7 @@ Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on
 
 ### Tech I work with
 
-<img src="./assets/flutter.png" alt="flutter" height="80" width="100"/>  <img src="./assets/node.png" alt="node" height="80" width="100"/> <img src="./assets/js.png" alt="js" height="80" width="100"/>  <img src="./assets/ts.png" alt="ts" height="80" width="100"/>  <img src="./assets/gql.png" alt="gql" height="80" width="100"/>  <img src="./assets/prisma.png" alt="prisma" height="80" width="100"/>  <img src="./assets/mongo.jpg" alt="mongo" height="80" width="100"/>  <img src="./assets/postgres.png" alt="postgres" height="80" width="100"/> <img src="./assets/deno.svg" alt="deno" height="80" width="100"/> <img src="./assets/nest.png" alt="nest" height="80" width="100"/> <img src="./assets/nexus.png" alt="nexus" height="80" width="100"/> 
+<img src="./assets/flutter.png" alt="flutter" height="50" width="60"/>  <img src="./assets/node.png" alt="node" height="50" width="60"/> <img src="./assets/js.png" alt="js" height="50" width="60"/>  <img src="./assets/ts.png" alt="ts" height="50" width="60"/>  <img src="./assets/gql.png" alt="gql" height="50" width="60"/>  <img src="./assets/prisma.jpg" alt="prisma" height="50" width="60"/>  <img src="./assets/mongo.jpg" alt="mongo" height="50" width="60"/>  <img src="./assets/postgres.png" alt="postgres" height="50" width="60"/> <img src="./assets/deno.svg" alt="deno" height="50" width="60"/> <img src="./assets/nest.png" alt="nest" height="50" width="60"/> <img src="./assets/nexus.png" alt="nexus" height="50" width="60"/> 
 
 
 
