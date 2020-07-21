@@ -23,7 +23,7 @@ Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerkash&show_icons=true&theme=dracula&line_height=27" alt="Sameer's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerkash&show_icons=true&theme=dracula&line_height=27&hide=["stars"]" alt="Sameer's github stats"/>
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
