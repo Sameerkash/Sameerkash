@@ -19,3 +19,7 @@ Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on
 - 💬 Ask me about anything, I'm up for a chat
 - 📫 How to reach me: [@sameeerkashyap](https://twitter.com/Sameeerkashyap) I'm probably addicted to twitter.
 - 😄 Pronouns: he/him
+
+
+
+![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=Sameerkash&hide=["stars"]&show_icons=true&theme=dracula)
