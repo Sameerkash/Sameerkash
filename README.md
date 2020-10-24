@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-I'm 4th year CSE Graduate currently exploring the amazing tools to build fullstack apps. Flutter Devloper Intern. Hoping to Contribute to amazing frameworks like flutter soon.
+ I'm the Developer Student Clubs Lead for DSC KSSEM, 4th year CSE Graduate and a Full Stack Flutter Devloper currently exploring the amazing tools to build fullstack apps
+Hoping to Contribute to amazing frameworks like flutter soon.
 Love Open Source, GSSoC '20 Campus Ambassdor. I have a few ambitious projects on my mind and hope to implement soon.
 
 ### Tech I work with
