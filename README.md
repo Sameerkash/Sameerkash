@@ -13,6 +13,7 @@
 - **GraphQL Asia 2020 Scholarship**
 - **KubeCon and CloudNativeCon 2020 Scholarhsip** 
 
+**Here's my [resume´](https://drive.google.com/file/d/10sNAS6yLQJEHwaObAgDCGHepA5Ymmp04/view?usp=sharing)**
 
 ### Tech I work with 🔨
 
