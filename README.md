@@ -2,6 +2,7 @@
  
  I'm Sameer,
 
+ - **MLH Explorer Fellow** (Spring 21')
  -  **Developer Student Clubs Lead** for DSC KSSEM, 
  - **GSSoC '20 Campus Ambassdor**
  - 4th year CSE Graduate 
