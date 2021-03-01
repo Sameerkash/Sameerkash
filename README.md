@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on a lot of things including Nestjs Microservices and React apps
 - 🌱 I’m currently learning [Deno](https://deno.land/), [React.js](https://reactjs.org/) and other ways to build full stack apps.
 - 👯 I’m looking to collaborate on amazing [Flutter](https://flutter.dev/) or [Node](https://nodejs.org/en/) projects.
--  🤔 I’m looking for help with [flutter_gitgraph](https://github.com/Sameerkash/flutter_gitgraph) A tutorial to help beginners understand DevOps
+-  🤔 I’m looking for help with [flutter_gitgraph](https://github.com/Sameerkash/flutter_gitgraph) a flutter library to display gitgraph workflow
 -  💬 Ask me about anything, I'm up for a chat
 -  📫 Reach out to me on [@sameeerkashyap](https://twitter.com/Sameeerkashyap) I'm probably addicted to twitter.
 -  😄 Pronouns: he/him
