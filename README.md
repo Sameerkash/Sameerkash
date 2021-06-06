@@ -21,9 +21,9 @@ I'm Sameer,
 ### Tech I work with 🔨
 
 <p>
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/flutter.png" alt="flutter" height="25" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/react.png" alt="react" height="25" width="40"/>&nbsp;<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/firebase.png" alt="fb" height="30" width="40"/> &nbsp; <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/node.png" alt="node" height="25" width="30"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/deno.svg" alt="deno" height="35" width="35"/> &nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/js.png" alt="js" height="25" width="30"/> &nbsp;
- <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/ts.png" alt="ts" height="25" width="30"/> &nbsp;  <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/rust.jpg" alt="rust" height="25" width="30"/>&nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/docker.webp" alt="rust" height="25" width="30"/> &nbsp;    <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/k8s.png" alt="k8s" height="25" width="30"/>&nbsp;&nbsp;    <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/gql.png" alt="gql" height="25" width="30"/> &nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/nest.png" alt="nest" height="25" width="30"/> &nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/prisma.jpg" alt="prisma" height="25" width="30"/> &nbsp;    <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/mongo.jpg" alt="mongo" height="25" width="30"/> &nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/postgres.png" alt="postgres" height="25" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/dynamodb.png" alt="dynamodb" height="30" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/gcloud.png" alt="gcloud" height="30" width="60"/></p>
+<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/techstack.png" alt="flutter"/></p>
+
+<!-- ![techstack](/assets/techstack.png) -->
 
 ### About Me 😼
 
