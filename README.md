@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![techstack](/assets/header.gif)
+![techstack]()
+
+<p>
+<img src="/assets/header.gif" width="50%" height="350"/>
+</p>
 
 I'm Sameer,
 
