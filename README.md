@@ -20,10 +20,10 @@ I'm Sameer,
 
 ### Tech I work with 🔨
 
-<p>
-<img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/techstack.png" alt="flutter"/></p>
+<!-- <p> -->
+<!-- <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/techstack.png" alt="flutter"/></p> -->
 
-<!-- ![techstack](/assets/techstack.png) -->
+![techstack](/assets/techstack.png)
 
 ### About Me 😼
 
