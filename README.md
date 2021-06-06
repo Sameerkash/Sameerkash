@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="/assets/header.gif" width="60%" height="350"/>
+<img src="/assets/header.gif" width="80%" height="450"/>
 </p>
 
 I'm Sameer,
