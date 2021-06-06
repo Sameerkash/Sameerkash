@@ -5,7 +5,7 @@ I'm Sameer,
 - **Celo India Fellow, by Devfolio**
 - **MLH Explorer Fellow** (Spring 21')
 - **Mentor, GSSoC '21**
-- **Developer Student Clubs Lead** for DSC KSSEM,
+- **Google Developer Student Clubs Lead** for DSC KSSEM,
 - **GSSoC '20 Campus Ambassdor**
 - 4th year CSE Graduate
 - Full Stack Mobile Devloper
