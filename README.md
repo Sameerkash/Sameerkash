@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-![techstack]()
-
-<p>
-<img src="/assets/header.gif" width="50%" height="350"/>
+<p align="center">
+<img src="/assets/header.gif" width="60%" height="350"/>
 </p>
 
 I'm Sameer,
