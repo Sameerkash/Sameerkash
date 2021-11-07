@@ -55,7 +55,7 @@ I recently started exploring the Blockchain space a few months ago and got selec
 Some of my Most recent Blogs!
 
 
--[Everything about the Celo India Fellowship](https://sameerkashyap.medium.com/everything-about-the-celo-india-fellowship-c5024a4a76e3)
+- [Everything about the Celo India Fellowship](https://sameerkashyap.medium.com/everything-about-the-celo-india-fellowship-c5024a4a76e3)
 - [A year of being the Google DSC Lead](https://medium.com/dsc-kssem/a-year-of-being-the-google-developer-student-clubs-lead-ff14a3764884)
 - [Building an AR App with Flutter and Appwrite](https://arvrjourney.com/building-an-ar-app-with-flutter-and-appwrite-1817b9ed4ff5)
 
