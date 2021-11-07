@@ -11,13 +11,13 @@ Here's the [short version](#short-version), want the long version 😄 ? Jump [h
 
 ##### Short Version
 
-- **Celo India Fellow, by Devfolio**
+- **Software Engineer @FrontRow
+- **Celo India Fellow, by Devfolio, Celo**
 - **MLH Explorer Fellow** (Spring 21')
 - **Mentor, GSSoC '21**
 - **Google Developer Student Clubs Lead** for DSC KSSEM,
 - **GSSoC '20 Campus Ambassdor**
-- 4th year CSE Graduate
-- Full Stack Mobile Devloper
+
 
 ### Some opportunities I got ✨
 
@@ -27,36 +27,36 @@ Here's the [short version](#short-version), want the long version 😄 ? Jump [h
 
 ##### Long Version
 
-I am a passionate final-year Computer Science student aspiring to be a software developer.
-Over the past 2 years, my main interests have been developing cross-platform mobile apps using Flutter and web apps using React.js and Next.js. I also have experience writing server-side JavaScript/TypeScript to build REST API endpoints as well as GraphQL APIs. Throughout my experience, I’ve built several projects with interesting challenges regarding state management, architecture, and design patterns while trying to explore optimal solutions around building real-world scalable servers.
+Over the past 2 years, my main interests have been developing cross-platform mobile apps using Flutter and web apps using React.js and Next.js. I also have experience writing server-side JavaScript/TypeScript to build REST API endpoints as well as GraphQL APIs. Throughout my experience, I’ve built several projects with interesting challenges regarding state management, architecture, and design patterns while trying to explore optimal solutions around building real-world scalable full-stack applications.
 
-I got the pleasure of working with two organizations helping them build their product as a Full Stack Intern and also got the opportunity to be a Fellow during the spring batch of [MLH Fellowship powered by Github](https://fellowship.mlh.io/#programs). I learned a ton of new technologies, concepts, and techniques such as pair programming that helped my team come up with successful sprint projects that won the hackathon. I also got the opportunity to be at GraphQL Asia 20 and Kubecon + CloudnativeCon 20,21 which helped me understand the DevOps world better as well as get better exposure to technologies like Kubernetes, Prometheus, and Thanos. I love collaborating and contributing to open source, which has helped me a lot as a software developer.
+I got the pleasure of working with two organizations helping them build their product as a Full Stack Intern and also got the opportunity to be a Fellow during the spring batch of [MLH Fellowship powered by Github](https://fellowship.mlh.io/#programs). I learned a ton of new technologies, concepts, and techniques such as pair programming that helped my team come up with successful sprint projects that won the hackathon. I also got the opportunity to be at GraphQL Asia 20 and Kubecon + CloudnativeCon 20,21.
+I love collaborating and contributing to open source, which has helped me a lot as a software developer.
 
-I recently started exploring the Blockchain space a few months ago and go selected to be a part of the Celo India Fellowship by [Devfolio](https://devfolio.co) this has helped so much to learn about the amazing impact blockchain will have on the way data is saved and stored in the near future, Celo is a mobile first Defi platform, I am contributing to Celo by poriting their exisisting SDKs to dart, helping folks build flutter Dapps on Celo
+I recently started exploring the Blockchain space a few months ago and got selected to be a part of the Celo India Fellowship by [Devfolio](https://devfolio.co) this has helped so much to learn about the amazing impact blockchain will have on the way data is saved and stored in the near future, Celo is a mobile first Defi platform, I am contributing to Celo by porting their exisisting SDKs to dart, helping folks build flutter Dapps on Celo, I am doubling down on exploring and building the WEB3 ecosystem along with Flutter and trying to learn about different blockchains and the impact they will have
 
-I am deeply interested in exploring more and diving deeper into the software world and building a valuable product for a society that helps tackle challenges that occur as the world goes through multiple difficult times. I look forward to an exciting opportunity and a future 🤩
-
-### Here's my [resume´](https://drive.google.com/file/d/1UR2blKoWYfrClmhCWWhh1ilEceX9EUmX/view?usp=sharing)
+### Interested in chatting with me? drop a DM on [twitter](https://twitter.com/sameeerkashyap)
 
 ### Tech I work with 🔨
 
 <!-- <p> -->
 <!-- <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/techstack.png" alt="flutter"/></p> -->
 
-![techstack](/assets/techstack.png)
+![techstack](/assets/dapps_banner.png)
 
 #### Looking for open source projects 👀 ? Here are some that you can contribute to!
 
+- [contract-kit](https://github.com/Sameerkash/celo-dart-monorepo) - A Dart SDK for connecting to the Celo blockchain.
+- [Anthos](https://github.com/Sameerkash/Anthos) - An open source secure Tezos Wallet built with Flutter.
 - [Cherry](https://github.com/Sameerkash/cherry) - Love Developer tooling? A Dart CLI tool for generating MVVM architecture files
 - [Socially](https://github.com/Sameerkash/Socially) - Looking for Devops? Here's An Example Microservice Architecture using Nest.js
 - [Flutter Dapp](https://github.com/Sameerkash/Flutter-Dapp-Example) - Interested in Dapps? check this out - An example App demonstarting Flutter and Ethereum
-- [Learning Golang](https://github.com/Sameerkash/LearningGolang) - Have a nice Golang example? Add it!
-- [Understanding Devops](https://github.com/Sameerkash/Understanding-DevOps) - Contribute to this if you're a devops expert An easy DevOps guide for beginners
+
 
 Some of my Most recent Blogs!
 
+
+-[Everything about the Celo India Fellowship](https://sameerkashyap.medium.com/everything-about-the-celo-india-fellowship-c5024a4a76e3)
 - [A year of being the Google DSC Lead](https://medium.com/dsc-kssem/a-year-of-being-the-google-developer-student-clubs-lead-ff14a3764884)
-- [Learn Golang in one blog](https://sameerkashyap.medium.com/learn-golang-in-one-blog-fdd568e6f631)
 - [Building an AR App with Flutter and Appwrite](https://arvrjourney.com/building-an-ar-app-with-flutter-and-appwrite-1817b9ed4ff5)
 
 Check out more on my Medium or HashNode and connect with me!
