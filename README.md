@@ -11,7 +11,7 @@ Here's the [short version](#short-version), want the long version 😄 ? Jump [h
 
 ##### Short Version
 
-- **Software Engineer @FrontRow**
+- **Software Engineer @Acko**
 - **Celo India Fellow, by Devfolio, Celo**
 - **MLH Explorer Fellow** (Spring 21')
 - **Mentor, GSSoC '21**
