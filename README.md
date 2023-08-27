@@ -42,7 +42,7 @@ I am currently building [**Arctic Procotol**](https://github.com/ArcticProtocol)
 
 ![](https://komarev.com/ghpvc/?username=Sameerkash&style=plastic&label=Stalkers+👀) <be>
 
- ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerkash&show_icons=true&theme=radical)
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerkash&show_icons=true&theme=dracula&line_height=27 alt="Sameer github stats"/> -->
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
